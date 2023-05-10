@@ -1,0 +1,7 @@
+apex\user\dao\UserDAO.class
+apex\user\dao\UserDAOImpl.class
+apex\user\util\HibernateUtil.class
+apex\user\bo\UserBO.class
+apex\user\bo\UserBOImpl.class
+apex\user\controller\UserController.class
+apex\user\vo\User.class
